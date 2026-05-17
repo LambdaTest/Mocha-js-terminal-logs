@@ -7,12 +7,17 @@
 
 ## Getting Started
 
-TestMu AI (Formerly LambdaTest) is an AI-native, agentic quality engineering platform that lets you run automated tests at scale across thousands of real browsers, devices, and operating systems.
+[TestMu AI](https://www.testmuai.com/) (Formerly LambdaTest) is the world's first full-stack AI Agentic Quality Engineering platform that empowers teams to test intelligently, smarter, and ship faster. Built for scale, it offers a full-stack testing cloud with 10K+ real devices and 3,000+ browsers. With AI-native test management, MCP servers, and agent-based automation, TestMu AI supports Selenium, Appium, Playwright, and all major frameworks.
 
-If you want to upload and view Mocha-js terminal logs on TestMu AI (Formerly LambdaTest), you can follow the below steps. You can refer to the sample test repo [here](https://github.com/LambdaTest/Mocha-selenium-sample).
+With TestMu AI (Formerly LambdaTest), you can run Mocha Tests With Terminal Logs across real browsers and operating systems.
 
 - [Sign up on TestMu AI](https://www.testmuai.com/register/) (Formerly LambdaTest).
 - Follow the [TestMu AI Documentation](https://www.testmuai.com/support/docs/) for the full setup walkthrough.
+
+### Prerequisites
+
+- Node.js and npm (latest stable)
+- A TestMu AI (Formerly LambdaTest) account with your username and access key
 
 # Steps:
 
